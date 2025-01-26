@@ -1,4 +1,4 @@
-# SQL-WIWO-Case-Study
+# SQL-WOWI-Case-Study
 This project analyzes sales data from a company, utilizing SQL queries to extract insights across various dimensions of the business. The focus is on understanding customer, product, marketing, and sales data to inform strategic decision-making.
 
 Key areas of analysis include:
